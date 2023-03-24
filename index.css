@@ -8,6 +8,22 @@
   display: flex;
 }
 
-ul {
+ol {
   list-style: none;
+}
+
+.user_name{
+  align-items: center;
+}
+
+.user_repo{
+  align-items: center;
+}
+
+.user_image {
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 100px;
+  padding: 5px;
+  width: 150px;
 }
